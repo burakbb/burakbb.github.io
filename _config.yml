@@ -1,7 +1,7 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Blog
+tagline:          Personal Blog.
+description:      This is my personal blog.
+canonical: https://burakbb.github.io
 
 # Owner/author information
 owner:

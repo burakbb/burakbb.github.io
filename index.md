@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+title: "Burak Buyukbaskin"
+tags: [personal,blog,tech,software]
 image:
   feature: typewriter.jpg
 ---
